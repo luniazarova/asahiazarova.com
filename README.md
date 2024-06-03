@@ -7,5 +7,7 @@ Clone the repository `git clone --branch asahiazarova.com-v2 https://github.com/
 Build the website `cd asahiazarova.com` `hugo` <br><br>
 Push the website `neocities push public` <br><br>
 
+For more information about how to use `Hugo` to build websites: https://gohugo.io/getting-started/quick-start/
+
 ## To visit:
 Our current domain is: https://asahiazarova.com
