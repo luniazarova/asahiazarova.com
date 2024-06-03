@@ -11,3 +11,12 @@ For more information about how to use `Hugo` to build websites: https://gohugo.i
 
 ## To visit:
 Our current domain is: https://asahiazarova.com
+
+## Credits:
+
+**Sergio Lopez & teohhanhui** | `krun` development
+**Alyssa Rosenzweig** | Asahi mesa development & FEX-emu development
+**FEX-emu project** | FEX-emu development
+**Asahi Linux project** | providing documentation for their web stack
+**Hugo project** | excellent toolbox
+**Testers** | end users who decide to take the plunge and provide data about their experiences
