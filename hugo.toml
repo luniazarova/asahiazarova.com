@@ -1,0 +1,4 @@
+baseURL = 'https://asahiazarova.com/'
+languageCode = 'en-us'
+title = "Asahi Azarova"
+theme = 'ananke'
