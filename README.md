@@ -14,9 +14,9 @@ Our current domain is: https://asahiazarova.com
 
 ## Credits:
 
-**Sergio Lopez & teohhanhui** | `krun` development <br>
-**Alyssa Rosenzweig** | Asahi mesa development & FEX-emu development <br>
-**FEX-emu project** | FEX-emu development <br>
-**Asahi Linux project** | providing documentation for their web stack <br>
-**Hugo project** | excellent toolbox <br>
+**Sergio Lopez & teohhanhui** | `krun` development <br><br>
+**Alyssa Rosenzweig** | Asahi mesa development & FEX-emu development <br><br>
+**FEX-emu project** | FEX-emu development <br><br>
+**Asahi Linux project** | providing documentation for their web stack <br><br>
+**Hugo project** | excellent toolbox <br><br>
 **Testers** | end users who decide to take the plunge and provide data about their experiences
